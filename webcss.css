@@ -1,0 +1,21 @@
+body {
+    background-color:beige;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pt;
+}
+h1 {
+    text-align: center;
+}
+h3 {
+    font-size: 18pt;
+}
+header{
+background-color: aquamarine;
+background-image: url(ME.jpg);
+background-position: top;
+background-repeat: repeat-x;
+height: 100px;
+color: chartreuse;
+padding: 0 25px;
+background-size: auto;
+}
